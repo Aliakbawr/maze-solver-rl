@@ -1,6 +1,6 @@
 ## Project Structure
 
-- **main.py**: The main script that initializes the environment, implements the Q-learning algorithm, and plots the results.
+- **maze.py**: The main script that initializes the environment, implements the Q-learning algorithm, and plots the results.
 - **requirements.txt**: Lists the required Python packages for the project.
 
 ## Installation
