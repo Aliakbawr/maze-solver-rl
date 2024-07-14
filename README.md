@@ -5,21 +5,10 @@
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
     ```sh
     git clone https://github.com/yourusername/maze-solver-rl.git
     cd maze-solver-rl
-    ```
-
-2. **Create a virtual environment** (optional but recommended):
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. **Install the required packages**:
-    ```sh
-    pip install -r requirements.txt
     ```
 
 ## Dependencies
